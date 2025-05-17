@@ -1,0 +1,26 @@
+# CITATION.cff
+cff-version: 1.2.0
+message: "If you use this code, please cite our unpublished manuscript."
+title: "Human‑inspired Online Correction of Object Misrecognition for Autonomous Driving Systems"
+authors:
+  - family-names: Zhou
+    given-names: Jincao
+  - family-names: Ning
+    given-names: Benyu
+  - family-names: Fu
+    given-names: Weiping
+  - family-names: Rui
+    given-names: Hongbin
+  - family-names: Li
+    given-names: Shen
+    affiliation: Member, IEEE
+  - family-names: Ran
+    given-names: Bin
+  - family-names: Hao
+    given-names: Longyun
+  - family-names: Li
+    given-names: Rui
+version: 0.1.0
+date-released: 2025-05-17
+url: "https://github.com/PlutoXN/CTDC"
+
