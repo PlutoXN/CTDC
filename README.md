@@ -7,8 +7,10 @@
 This repository is the official implementation of the paper  
 > “Human‑inspired Online Correction of Object Misrecognition for Autonomous Driving Systems.”  
 It provides all the code, data preprocessing scripts, and example outputs needed to reproduce and extend the experiments described in the paper.
-
 ---
+
+CTDC model diagram：
+![image](https://github.com/user-attachments/assets/fa9aa214-7a2c-41af-9679-0b5472f1f405)
 
 ## 🚀 Key Contributions
 
@@ -48,4 +50,39 @@ CTDC/
 │   └── TRG‑Trust/     # Inference results of the TRG‑Trust model
 └── README.md          # This file
 
+Example:
+<p align="center">
+  <img src="example/SGG/图片1.png" alt="Scene Graph 1" width="50%" /> 
+  <img src="example/SGG/图片5.png" alt="Scene Graph 2" width="50%" /> 
+</p>
+ 	 
+
+
+
+If you find our paper and code useful for your research, please consider giving a Star ⭐ and a Citation 📝 :
+# CITATION.cff
+cff-version: 1.2.0
+message: "If you use this code, please cite our unpublished manuscript."
+title: "Human‑inspired Online Correction of Object Misrecognition for Autonomous Driving Systems"
+authors:
+  - family-names: Zhou
+    given-names: Jincao
+  - family-names: Ning
+    given-names: Benyu
+  - family-names: Fu
+    given-names: Weiping
+  - family-names: Rui
+    given-names: Hongbin
+  - family-names: Li
+    given-names: Shen
+    affiliation: Member, IEEE
+  - family-names: Ran
+    given-names: Bin
+  - family-names: Hao
+    given-names: Longyun
+  - family-names: Li
+    given-names: Rui
+version: 0.1.0
+date-released: 2025-05-17
+url: "https://github.com/PlutoXN/CTDC"
 
