@@ -37,11 +37,6 @@ CTDC model diagram：
 - **h5py**  
 - **urllib3**
 
-You can install all dependencies with:
-
-```bash
-pip install torch torchvision torchaudio tqdm h5py urllib3
-
 CTDC/
 ├── main.py            # Entry point for the TRG‑Trust model, including HG‑GRU construction
 ├── data/              # ADTKG dataset preprocessing scripts and intermediate files
@@ -50,13 +45,10 @@ CTDC/
 │   └── TRG‑Trust/     # Inference results of the TRG‑Trust model
 └── README.md          # This file
 
+
 The misidentification phenomenon is simulated by artificially modifying the target category labels to more realistically evaluate the performance of the CTDC model in dealing with such problems. For example, in the experiment, the "Person" category label is deliberately changed to the wrong category "PB (Portrait in billboard)"; the "Road Reflector (RCM)" label is changed to "Traffic light", "Car" is changed to "Truck", and "Traffic Cone" is changed to "Person".
 Example:
 ![图片2](https://github.com/user-attachments/assets/2d0ca673-467f-4468-9ce3-4bf0cf9da8a9)
-
-
-
-
 
 
 
