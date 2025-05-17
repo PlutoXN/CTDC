@@ -10,7 +10,9 @@ It provides all the code, data preprocessing scripts, and example outputs needed
 ---
 
 CTDC model diagram：
-![总体图](https://github.com/user-attachments/assets/40ad6725-9cf7-4bdc-b156-475ed83e23ca)
+<p align="center">
+  <img src="example/SGG/图片1.png" alt="Scene Graph 1" width="85%" style="display:inline-block; margin-right:5px;" />
+</p>
 
 ## 🚀 Key Contributions
 
