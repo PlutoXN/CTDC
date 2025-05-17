@@ -49,20 +49,20 @@ CTDC/
 The misidentification phenomenon is simulated by artificially modifying the target category labels to more realistically evaluate the performance of the CTDC model in dealing with such problems. For example, in the experiment, the "Person" category label is deliberately changed to the wrong category "PB (Portrait in billboard)"; the "Road Reflector (RCM)" label is changed to "Traffic light", "Car" is changed to "Truck", and "Traffic Cone" is changed to "Person".
 Example:
 <p align="center">
-  <img src="example/SGG/图片1.png" alt="Scene Graph 1" width="45%" style="display:inline-block; margin-right:5px;" />
-  <img src="example/SGG/图片5.png" alt="Scene Graph 2" width="45%" style="display:inline-block; margin-left:5px;" />
+  <img src="example/SGG/图片1.png" alt="Scene Graph 1" width="30%" style="display:inline-block; margin-right:5px;" />
+  <img src="example/SGG/图片5.png" alt="Scene Graph 2" width="30%" style="display:inline-block; margin-left:5px;" />
+  <img src="example/TRG-Trust Reasoning results/图片4.png" alt="Scene Graph 2" width="30%" style="display:inline-block; margin-left:5px;" />
 </p>
-
-
-
-
-
-
-
-
- 	 
-
-
+<p align="center">
+  <img src="example/SGG/图片3.png" alt="Scene Graph 1" width="30%" style="display:inline-block; margin-right:5px;" />
+  <img src="example/SGG/图片6.png" alt="Scene Graph 2" width="30%" style="display:inline-block; margin-left:5px;" />
+  <img src="example/TRG-Trust Reasoning results/图片10.png" alt="Scene Graph 2" width="30%" style="display:inline-block; margin-left:5px;" />
+</p>
+<p align="center">
+  <img src="example/SGG/图片2.png" alt="Scene Graph 1" width="30%" style="display:inline-block; margin-right:5px;" />
+  <img src="example/SGG/图片4.png" alt="Scene Graph 2" width="30"%" style="display:inline-block; margin-left:5px;" />
+  <img src="example/TRG-Trust Reasoning results/图片7.png" alt="Scene Graph 2" width="30%" style="display:inline-block; margin-left:5px;" />
+</p>
 
 If you find our paper and code useful for your research, please consider giving a Star ⭐ and a Citation 📝 :
 # CITATION.cff
