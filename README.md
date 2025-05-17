@@ -36,7 +36,8 @@ CTDC model diagram：
 - **tqdm**  
 - **h5py**  
 - **urllib3**
-'''
+```
+
 CTDC/
 ├── main.py            # Entry point for the TRG‑Trust model, including HG‑GRU construction
 ├── data/              # ADTKG dataset preprocessing scripts and intermediate files
