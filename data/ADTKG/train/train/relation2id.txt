@@ -1,0 +1,9 @@
+speed	0
+distance	1
+position	2
+colour	3
+depth	4
+place	5
+quantity	6
+time	7
+type	8
