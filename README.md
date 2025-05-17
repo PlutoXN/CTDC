@@ -11,7 +11,7 @@ It provides all the code, data preprocessing scripts, and example outputs needed
 
 CTDC model diagram：
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c1418250-b03c-4145-873e-e3058c8aab37" alt="总体图" width="85%" />
+  <img src="https://github.com/user-attachments/assets/c1418250-b03c-4145-873e-e3058c8aab37" alt="总体图" width="70%" />
 </p>
 
 
