@@ -10,7 +10,7 @@ It provides all the code, data preprocessing scripts, and example outputs needed
 ---
 
 CTDC model diagram：
-![image](https://github.com/user-attachments/assets/fa9aa214-7a2c-41af-9679-0b5472f1f405)
+![总体图](https://github.com/user-attachments/assets/40ad6725-9cf7-4bdc-b156-475ed83e23ca)
 
 ## 🚀 Key Contributions
 
@@ -60,7 +60,7 @@ Example:
 </p>
 <p align="center">
   <img src="example/SGG/图片2.png" alt="Scene Graph 1" width="30%" style="display:inline-block; margin-right:5px;" />
-  <img src="example/SGG/图片4.png" alt="Scene Graph 2" width="30"%" style="display:inline-block; margin-left:5px;" />
+  <img src="example/SGG/图片4.png" alt="Scene Graph 2" width="30%" style="display:inline-block; margin-left:5px;" />
   <img src="example/TRG-Trust Reasoning results/图片7.png" alt="Scene Graph 2" width="30%" style="display:inline-block; margin-left:5px;" />
 </p>
 
