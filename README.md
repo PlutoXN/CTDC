@@ -26,7 +26,7 @@ CTDC model diagram：
    - To address the issues of insufficient accuracy and potential hallucinations when relying solely on LLMs or traditional RAG reasoning, we developed the Dual-Constraint Multimodal Retrieval-Augmented Generation Model (DCM-RAG) based on KGs.
    - The DCM-RAG model constrains the relevance of retrieved documents through a dual-constraint method and combines multimodal data (image and semantic features) as input to LLMs, effectively improving accuracy and reducing hallucination phenomena.
 
-
+```bash
 ## 🛠️ Requirements
 
 - **Python** ≥ 3.8 (we use 3.9)  
@@ -36,7 +36,7 @@ CTDC model diagram：
 - **tqdm**  
 - **h5py**  
 - **urllib3**
-
+'''
 CTDC/
 ├── main.py            # Entry point for the TRG‑Trust model, including HG‑GRU construction
 ├── data/              # ADTKG dataset preprocessing scripts and intermediate files
@@ -45,10 +45,11 @@ CTDC/
 │   └── TRG‑Trust/     # Inference results of the TRG‑Trust model
 └── README.md          # This file
 
-
 The misidentification phenomenon is simulated by artificially modifying the target category labels to more realistically evaluate the performance of the CTDC model in dealing with such problems. For example, in the experiment, the "Person" category label is deliberately changed to the wrong category "PB (Portrait in billboard)"; the "Road Reflector (RCM)" label is changed to "Traffic light", "Car" is changed to "Truck", and "Traffic Cone" is changed to "Person".
 Example:
-![图片2](https://github.com/user-attachments/assets/2d0ca673-467f-4468-9ce3-4bf0cf9da8a9)
+![图片2](https://github.com/user-attachments/assets/2d0ca673-467f-4468-9ce3-4bf0cf9da8a9)![图片4](https://github.com/user-attachments/assets/60332da0-4f36-4d55-bc56-71ab5e5ec84f)
+
+
 
 
 
