@@ -52,9 +52,9 @@ CTDC/
 
 The misidentification phenomenon is simulated by artificially modifying the target category labels to more realistically evaluate the performance of the CTDC model in dealing with such problems. For example, in the experiment, the "Person" category label is deliberately changed to the wrong category "PB (Portrait in billboard)"; the "Road Reflector (RCM)" label is changed to "Traffic light", "Car" is changed to "Truck", and "Traffic Cone" is changed to "Person".
 Example:
-![图片1](https://github.com/user-attachments/assets/db701743-363f-4d30-bfec-20d114a833ef)![图片5](https://github.com/user-attachments/assets/f07e06e6-9b65-41c7-846a-3479f0009e57)
-![图片3](https://github.com/user-attachments/assets/7fb36e0f-9d67-4450-91eb-42fa04f51e3e)![图片6](https://github.com/user-attachments/assets/8c15058d-874a-4614-9b73-739e6307c3f2)
-![图片2](https://github.com/user-attachments/assets/ed88f350-8244-43a3-85b3-0c842ab35b5e)![图片4](https://github.com/user-attachments/assets/6d2ed3a0-9f9b-4b5e-aff9-0888e3f773e0)
+![图片1](https://github.com/user-attachments/assets/7ebe7dc6-6e75-467b-80ea-7e95ca6f49d2)![图片5](https://github.com/user-attachments/assets/9b9ef472-f187-4833-a3d5-a2963acd86cf)
+
+
 
 
 
